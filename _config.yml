@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9121864
 color:
   saturation: 0.08004002
+  brandStrength: 0
   lightness: 0.1175433
-  brandStrength: 0.2902705
-  rhythmicContrast: 0.5190529
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  rhythmicContrast: 0.5190529
+layout_spectrum: 0
 name: CVDPilots
