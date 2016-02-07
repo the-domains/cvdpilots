@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.9121864
+color:
+  saturation: 0.08004002
+  lightness: 0.1175433
+  brandStrength: 0.2902705
+  rhythmicContrast: 0.5190529
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: CVDPilots
